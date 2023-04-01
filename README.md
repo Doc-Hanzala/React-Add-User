@@ -4,6 +4,12 @@ Download the project
 
 Open Vs code
 
-Enter " npm run dev "
+Open the terminal
+
+run --> cd "project name"
+
+run -->npm install
+
+run --> npm run dev
 
 Open the provided Link and enjoy
