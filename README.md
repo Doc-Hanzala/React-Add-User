@@ -1,15 +1,12 @@
-This is React js project created with vite
+# Add User
 
-Download the project
+  # How to Run
+  - Download the zip File
+  - Unzip the downloaded file
+  -  Open in Vs Code
+  -  Run " npm install " in terminal
+  -  Run " npm run dev " in terminal
+  -  Open the link
 
-Open Vs code
-
-Open the terminal
-
-run --> cd "project name"
-
-run -->npm install
-
-run --> npm run dev
-
-Open the provided Link and enjoy
+ # Live Preview
+https://810-adduser.netlify.app/
